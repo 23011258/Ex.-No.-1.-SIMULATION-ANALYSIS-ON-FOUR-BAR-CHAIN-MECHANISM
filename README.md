@@ -59,8 +59,8 @@
 
 ![image](https://github.com/AnnaLahari/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/149365425/8fb46e97-779c-45ca-8680-06e4990f54f8)
 
-### Name:A.Lahari
-### Register Number: 212223230111
+### Name:Chandana Yendluri
+### Register Number: 212223100063
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
